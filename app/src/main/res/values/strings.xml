@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pager Adapter</string>
+    <string name="settings_page">Settings Page</string>
+    <string name="home_page">Home Page</string>
+</resources>
